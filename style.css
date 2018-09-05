@@ -157,7 +157,7 @@ a {
     width: 214px;
     border: solid #759195 1px;
     background: rgba(255, 255, 255, 0);
-    transition: background color 1s.
+    transition: background color 1s;
   }
 
   .details__location-button:hover {
